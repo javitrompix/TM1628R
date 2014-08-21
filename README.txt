@@ -1,5 +1,5 @@
 
-Modificaci髇 sobre la libreria TM1628 para el uso en un display redondo.
+Modificaci贸n sobre la libreria TM1628 para el uso en un display redondo. Extraido de DVD e:max modelo AS 607.
 
 
 Libreria para el uso del frontal completo de un DVD que tenga el control basado en el TM1628, SM1628, TW1628 o el MC2101.
@@ -7,14 +7,14 @@ Estos integrados se conocen como "DVD LED driver".
 
 La placa entera de frontal de DVD suele tener seis cables.
 
-STB, CLK y DATA	 Para la comunicaci髇 con el Driver	
-GND y +5V        Para la alimentaci髇 de la tarjeta
+STB, CLK y DATA	 Para la comunicaci贸n con el Driver	
+GND y +5V        Para la alimentaci贸n de la tarjeta
 IR		 Para la trama del mando de infrarojos. Este se usa con la libreria <IRremote.h>.
 
 Normalmente suele venir serigrafiado en la placa el pineado.
 
 
-Mas documentaci髇:
+Mas documentaci贸n:
 
 http://blockduino.blogspot.com.es/2012/10/led-dvd-tm1628.html
 http://blockduino.blogspot.com.es/2012/10/led-dvd-tm1628_30.html
